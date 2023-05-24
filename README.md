@@ -12,6 +12,7 @@ git checkout new_branch
 ```bash
 git add .
 git commit –m "Some commit message"
+git push
 git checkout main
 ```
 Switched to branch 'main'
